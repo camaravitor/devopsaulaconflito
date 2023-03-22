@@ -5,5 +5,7 @@ Aula sobre resolução de conflitos
 
 * Mercurial
 * Git
+* GitLab
 * Subversion
 * CVS
+Conflito resolvido
