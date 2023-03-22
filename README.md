@@ -4,6 +4,6 @@ Aula sobre resolução de conflitos
 # Ferramentas de controle de versão:
 
 * Mercurial
-* GitHub
+* Git
 * Subversion
 * CVS
